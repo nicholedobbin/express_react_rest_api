@@ -31,6 +31,9 @@ The [App.js](/server/client/src/App.js) file gets the inputted username from for
 2. If there is a GitHub/GitLab user with the username entered, it will display the user's profile and repo data. If there is no profile found with that username, it will display a message stating this.
 3. Navigate between GitHub and GitLab repo data by clicking on the green *"View GitHub"* and *"View GitLab"* tabs.
 
+## **What does it look like?**
+![Screenshot of web app](markdown/GitHub%20GitLab%20API%20Search.png)
+
 <hr>
 
 ## Testing the App
